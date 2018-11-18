@@ -9,7 +9,7 @@ user_nameはunknownで書き込まれるので変更してください。
 [
   {
     'user_name': 'unknown',
-    'addr': AB:CD:EF:01:23:45',
+    'addr': AB:CD:EF:01:23:45'
   }
 ]
 ```
