@@ -1,5 +1,6 @@
 #Bluetoothを使った存在検知
-+search.py
+
+###search.py
 ペアリング状態のデバイスのBDアドレスをdev_list.jsonの保存します。
 user_nameはunknownで書き込まれるので変更してください。
 
@@ -13,7 +14,7 @@ user_nameはunknownで書き込まれるので変更してください。
 ```
 の形で保存されます。
 
-+scan.py
+###scan.py
 search.pyで得たBDアドレスから存在を検知します。
 ループ1回につき差分をとることで入室と退出の判断をしています。
 POSTすることを考えいろいろしてあります。
