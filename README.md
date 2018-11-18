@@ -5,7 +5,7 @@
 ペアリング状態のデバイスのBDアドレスをdev_list.jsonの保存します。
 user_nameはunknownで書き込まれるので変更してください。
 
-```python:search.py
+```json:dev_list.json
 [
   {
     'user_name': 'unknown',
