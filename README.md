@@ -1,4 +1,5 @@
-#Bluetoothを使った存在検知
+#blue_search
+Bluetoothを使った存在検知
 
 ###search.py
 ペアリング状態のデバイスのBDアドレスをdev_list.jsonの保存します。
